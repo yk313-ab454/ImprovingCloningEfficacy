@@ -1,5 +1,5 @@
 # ImprovingCloningEfficacy
-Finding small molecules that can increase Cloning efficacy:
+This code is for finding small molecules that can increase Cloning efficacy:
 
 
 Please follow the following steps before running the code:
